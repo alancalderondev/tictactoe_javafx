@@ -1,4 +1,3 @@
-Puedes mejorarlo:
 <h1 align="center">⭕ Tic Tac Toe en JavaFX ❌</h1>
 
 ## Bienvenido al proyecto Tic Tac Toe implementado con JavaFX. Este es un juego clásico de Tres en Línea donde dos jugadores compiten para alinear tres de sus símbolos en una fila, columna o diagonal. El proyecto está desarrollado utilizando JavaFX en el entorno de desarrollo NetBeans.
